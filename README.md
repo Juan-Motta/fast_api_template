@@ -1,2 +1,2 @@
-# EXAMS API
+# Fast API Template
 
