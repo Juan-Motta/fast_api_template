@@ -7,6 +7,7 @@ class Settings(BaseSettings):
     APP_ENVIRONMENT: str
     DEBUG: bool
     LOG_LEVEL: str
+    SECRET_KEY: str
 
     DB_HOST: str
     DB_PORT: str
